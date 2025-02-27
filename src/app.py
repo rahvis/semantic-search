@@ -17,7 +17,7 @@ with gr.Blocks() as demo:
                     bubble_full_width=False,
                     height=500,
                     avatar_images=(
-                        ("images/AI_RT.png"), "images/openai.png")
+                        ("images/workonward_logo.jpeg"), "images/openai.png")
                 )
                 # **Adding like/dislike icons
                 chatbot.like(UISettings.feedback, None, None)
