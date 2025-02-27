@@ -35,3 +35,8 @@ EMBED_DEPLOYMENT_NAME=text-embedding-3-large
 GPT_DEPLOYMENT_NAME=gpt-4
 MONGODB_URI=mongodb+srv://bloombook:AUxKDrIdvbdcl9eH@cluster0.44rdqx8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
+
+## mongodb collections
+
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/0d0baa38-082e-4b45-8262-f0f9725b5e25" />
+
