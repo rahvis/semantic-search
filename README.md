@@ -7,8 +7,6 @@
 ## Main underlying techniques used in this chatbot:
 
 - LLM chains and agents
-- GPT function calling
-- Retrieval Augmented generation (RAG)
 
 ## Installation:
 
