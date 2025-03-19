@@ -26,12 +26,12 @@ puthon3 src/app.py
 ## .env files
 
 ```
-AZURE_OPENAI_API_KEY=3fPk4DbpIQSYVxGETwu5aT7TjshD2fynpFa4m6gQck6ZvJUrJ8W0JQQJ99BBACHYHv6XJ3w3AAAAACOGC2pJ
-AZURE_OPENAI_API_BASE=https://ai-wowaiopenai814257836334.openai.azure.com/
+AZURE_OPENAI_API_KEY=3fPk4DT7TjshD2fyYHv6XJ3w3AAAAACOGC2pJ
+AZURE_OPENAI_API_BASE=https:/openai.openai.azure.com/
 AZURE_OPENAI_API_VERSION=2023-05-15
 EMBED_DEPLOYMENT_NAME=text-embedding-3-large
 GPT_DEPLOYMENT_NAME=gpt-4
-MONGODB_URI=mongodb+srv://bloombook:AUxKDrIdvbdcl9eH@cluster0.44rdqx8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=mongodb+srv://@cluster0.44rdqx8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 ## mongodb collections
